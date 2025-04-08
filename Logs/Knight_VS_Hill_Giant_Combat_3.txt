@@ -1,0 +1,70 @@
+Combat commence!
+Combat 3, Round 1, Turn 1. 
+Creature 1's turn.
+Creature 1 makes attack number 1. 
+Rolling 1 D20's with 5 modifier. 
+Creature 1 rolled 12 to hit. They miss. 
+Creature 1 makes attack number 2. 
+Rolling 1 D20's with 5 modifier. 
+Creature 1 rolled 14 to hit. They make contact! 
+Rolling 2 D6's with 3 modifier. 
+They dealt 10 damage. 
+Combat 3, Round 1, Turn 2. 
+Creature 2's turn.
+Creature 2 makes attack number 1. 
+Rolling 1 D20's with 8 modifier. 
+Creature 2 rolled 12 to hit. They miss. 
+Creature 2 makes attack number 2. 
+Rolling 1 D20's with 8 modifier. 
+Creature 2 rolled 11 to hit. They miss. 
+Combat 3, Round 2, Turn 1. 
+Creature 1's turn.
+Creature 1 makes attack number 1. 
+Rolling 1 D20's with 5 modifier. 
+Creature 1 rolled 13 to hit. They make contact! 
+Rolling 2 D6's with 3 modifier. 
+They dealt 8 damage. 
+Creature 1 makes attack number 2. 
+Rolling 1 D20's with 5 modifier. 
+Creature 1 rolled 12 to hit. They miss. 
+Combat 3, Round 2, Turn 2. 
+Creature 2's turn.
+Creature 2 makes attack number 1. 
+Rolling 1 D20's with 8 modifier. 
+Creature 2 rolled 27 to hit. They make contact! 
+Rolling 3 D8's with 5 modifier. 
+They dealt 19 damage. 
+Creature 2 makes attack number 2. 
+Rolling 1 D20's with 8 modifier. 
+Creature 2 rolled 14 to hit. They miss. 
+Combat 3, Round 3, Turn 1. 
+Creature 1's turn.
+Creature 1 makes attack number 1. 
+Rolling 1 D20's with 5 modifier. 
+Creature 1 rolled 14 to hit. They make contact! 
+Rolling 2 D6's with 3 modifier. 
+They dealt 13 damage. 
+Creature 1 makes attack number 2. 
+Rolling 1 D20's with 5 modifier. 
+Creature 1 rolled 14 to hit. They make contact! 
+Rolling 2 D6's with 3 modifier. 
+They dealt 12 damage. 
+Combat 3, Round 3, Turn 2. 
+Creature 2's turn.
+Creature 2 makes attack number 1. 
+Rolling 1 D20's with 8 modifier. 
+Creature 2 rolled 22 to hit. They make contact! 
+Rolling 3 D8's with 5 modifier. 
+They dealt 22 damage. 
+Creature 2 makes attack number 2. 
+Rolling 1 D20's with 8 modifier. 
+Creature 2 rolled 22 to hit. They make contact! 
+Rolling 3 D8's with 5 modifier. 
+They dealt 17 damage. 
+Combat over.
+Creature 2 wins the fight!
+It survived with 62 HP left. 
+This result took 4 rounds of combat (total of 9 turns) to approach. 
+Creature 1 dealt a total of 43 damage across 4 attacks hit. 
+Creature 2 dealt a total of 58 damage across 3 attacks hit. 
+Elapsed time is 49.947635 seconds.
